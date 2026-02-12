@@ -1,0 +1,10 @@
+.App {
+    min-height: 100vh;
+    background: #FFF0F5;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.celebrate-bg {
+    background: linear-gradient(180deg, #FFF1F2 0%, #FFE4E6 50%, #FFF0F5 100%);
+}
